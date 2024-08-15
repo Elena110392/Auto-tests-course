@@ -1,1 +1,1 @@
-# Auto-tests-course
+Проект автоматизации веб-тестирования с использованием библиотеки Selenium, проект написан на PYTHON # Auto-tests-course
